@@ -39,4 +39,4 @@ Alchokr, R., **Joshi, S. V.**, Saake, G., Leich, T., Krüger, J. *Investigating 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-joshi-897961102/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshisanket80@gmail.com)
 
-🚀 *Open to Senior Data Analyst, AI Operations, and Automation Engineer roles — Berlin or EU remote.*
+🚀 *Open to Senior Data Analyst, AI Operations, Automation Engineer, Associate Product Manager roles — Berlin or EU remote.*
