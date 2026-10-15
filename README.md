@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sanket Joshi
 
 🎯 **Data & Analytics Professional | AI-Powered Automation Builder**  
-📍 Berlin, Germany · 6+ years in data & analytics
+📍 Berlin, Germany · 8 years in data & analytics
 
 ---
 
